@@ -1,0 +1,1 @@
+let renameTitle = (pageName) => document.querySelector("title").textContent = pageName
